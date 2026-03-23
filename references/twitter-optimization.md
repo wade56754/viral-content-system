@@ -76,4 +76,4 @@ work/output/publish-kit/YYYY-MM-DD-{slug}/
 └── preview.html        ← 本地预览页
 ```
 
-**封面署名：Koda一人公司**（⚠️ 不是"跨境B哥"）
+**封面署名：[作者品牌]**（⚠️ 不是"[作者旧名]"）
