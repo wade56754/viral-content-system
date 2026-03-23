@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 | 生财有术案例 | SC-{nn} | 34 | scys-cases.md（内含详情） | 同上 |
 | 万维钢·精英日课 | WW-{nnnn} | 1629 | 按场景拆分 `by-scene-*.md` | wanwei-details.md |
-| 罗振宇·罗辑思维 | LJ-{nnnn} | 6091 | 按场景拆分 `luoji-by-scene-*.md` | luoji-details.md |
+| 某知名知识博主·罗辑思维 | LJ-{nnnn} | 6091 | 按场景拆分 `luoji-by-scene-*.md` | luoji-details.md |
 | 熊逸·全系列 | XY-{nnnn} | 1592 | 按场景拆分 `xiongyi-by-scene-*.md` | xiongyi-details.md |
 | 薛兆丰·经济学课 | XZF-{nnnn} | 1254 | 按场景拆分 `xuezhaofeng-by-scene-*.md` | xuezhaofeng-details.md |
 | 香帅·北大金融学课 | XS-{nnnn} | 1095 | 按场景拆分 `xiangshuai-by-scene-*.md` | xiangshuai-details.md |
