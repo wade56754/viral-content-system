@@ -64,6 +64,17 @@ Phase 9: 评论区运营 + 数据反馈 + 进化闭环
 ```
 .
 ├── SKILL.md                      ← 主文件：完整工作流 + 写作铁律
+├── content-review/               ← 内容质量门禁（独立审稿系统）
+│   ├── SKILL.md                  ← 审稿主文件：三关审稿 + 100分评分
+│   ├── references/
+│   │   ├── scoring-system.md     ← 100分评分维度 + 4档细则
+│   │   ├── x-tweet-scoring.md    ← X 推特专用评分 + 门禁模式
+│   │   ├── platform-rules.md     ← 各平台审稿特化规则
+│   │   └── anti-patterns.md      ← 反面教材检测表
+│   ├── templates/
+│   │   └── scorecard.md          ← 评分卡输出模板
+│   └── data/
+│       └── gotchas.md            ← 审稿踩坑清单
 ├── references/
 │   ├── rift-theory.md            ← 裂隙三幕 + 展开模式 + 通用规则
 │   ├── hooks-and-emotions.md     ← Hook 类型 + 情绪曲线 + 标题公式
@@ -71,7 +82,7 @@ Phase 9: 评论区运营 + 数据反馈 + 进化闭环
 │   ├── author-style-dna.md       ← 风格 DNA（可替换为你自己的）
 │   ├── anti-ai-checklist.md      ← 去 AI 化 24 模式检测清单
 │   ├── twitter-optimization.md   ← 推特平台算法优化策略
-│   ├── exemplar-articles.md    ← 某知名知识博主 16 篇范文拆解
+│   ├── exemplar-articles.md      ← 范文拆解
 │   └── 18-articles-analysis.md   ← 18 篇爆文深度分析
 ├── templates/
 │   └── skeleton.md               ← 骨架输出模板
